@@ -1,0 +1,17 @@
+body {
+  background: #624;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+p,
+h1,
+h2 {
+  color: yellow;
+}
+h6 {
+  color: lightpink;
+}
+h5 {
+  color: lightblue;
+}
